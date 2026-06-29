@@ -1,5 +1,5 @@
 # Automatically buys OVH Eco Servers (Docker)
-Go source code modified from: https://blog.yessure.org/index.php/archives/203
+Go source code modified from: ~~htt ps://blog.yessure. org/index.php/archives/203~~ (The origin has been abandoned and now returns an irrelative site)
 
 To generate token:
 - IE: `https://eu.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*`
